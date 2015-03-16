@@ -1,1 +1,1 @@
-# jquerycalculator
+http://maxteebabs.github.io/jquerycalculator/
